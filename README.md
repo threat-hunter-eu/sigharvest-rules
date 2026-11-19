@@ -41,7 +41,7 @@ sha256sum --check --ignore-missing SHA256SUMS
 
 To pin one day, replace `latest/download` with `download/rules-YYYY-MM-DD`.
 
-Start a local sigharvest workspace from the newest pack (search, exports, web UI, SIEM queries) in a few minutes:
+Start a local sigharvest workspace from the newest pack (search, exports, web UI, SIEM queries) in about ten minutes:
 
 ```bash
 sigharvest init ~/sigma --from-release latest
